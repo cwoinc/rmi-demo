@@ -17,5 +17,4 @@ public interface DemoService extends Remote {
     
     User getUserByName(String name) throws RemoteException;
     
-    
 }
